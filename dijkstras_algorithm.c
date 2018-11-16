@@ -82,7 +82,7 @@ for( i=0;i<nodes;)
    z=0;
    }else
    {
-       if(trueck==1&&z==1)
+       if((trueck==1)&&z==1)
        {
            arrayindex=c[0];
            visitedarr[i]=1;
